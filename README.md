@@ -1,4 +1,4 @@
-# *File Size*
+# *Random Quote*
 
 > GitHub Action to provide random quotes on issues/pull requests
 
@@ -10,8 +10,8 @@
 [![Reviewed by Hound](https://img.shields.io/badge/Reviewed_by-Hound-8E64B0.svg)](https://houndci.com)
 [![Chat](https://img.shields.io/badge/chat-discussions-success.svg)](https://github.com/AlexRogalskiy/github-action-random-quote/discussions)
 
-[![DeepSource](https://deepsource.io/gh/AlexRogalskiy/github-action-random-quote.svg/?label=active+issues\&show_trend=true)](https://deepsource.io/gh/AlexRogalskiy/github-action-random-quote/?ref=repository-badge)
-[![DeepScan grade](https://deepscan.io/api/teams/11946/projects/16681/branches/362753/badge/grade.svg)](https://deepscan.io/dashboard#view=project\&tid=11946\&pid=16681\&bid=362753)
+[![DeepSource](https://deepsource.io/gh/AlexRogalskiy/github-action-random-quote.svg/?label=active+issues&show_trend=true)](https://deepsource.io/gh/AlexRogalskiy/github-action-random-quote/?ref=repository-badge)
+[![DeepScan grade](https://deepscan.io/api/teams/11946/projects/16699/branches/363375/badge/grade.svg)](https://deepscan.io/dashboard#view=project&tid=11946&pid=16699&bid=363375)
 
 ![GitHub tag (latest by date)](https://img.shields.io/github/v/tag/AlexRogalskiy/github-action-random-quote)
 ![GitHub Release Date](https://img.shields.io/github/release-date/AlexRogalskiy/github-action-random-quote)
