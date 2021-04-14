@@ -1,0 +1,29 @@
+name: 'Styled Random Quote'
+description: 'Provides random quotes on GitHub issues/pull requests'
+author: 'AlexRogalskiy'
+
+inputs:
+  sourceData:
+    description: 'JSON data source with action parameters'
+    required: false
+  requestId:
+    description: "Request identifier"
+    required: false
+  theme:
+    description: "Quote image theme"
+    required: false
+  layout:
+    description: "Quote image layout"
+    required: false
+  GITHUB_TOKEN:
+    description: "Github action token"
+    required: true
+
+runs:
+  using: 'docker'
+  image: 'Dockerfile'
+
+# Ref: https://haya14busa.github.io/github-action-brandings/
+branding:
+  icon: 'image'
+  color: 'yellow'
