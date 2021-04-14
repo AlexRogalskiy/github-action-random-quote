@@ -2,7 +2,7 @@
 
 > GitHub Action to provide random quotes on issues/pull requests
 
-[![GitHub marketplace](https://img.shields.io/badge/marketplacegithub-random--quote-blue?logo=github)](https://github.com/marketplace/actions/random-quote)
+[![GitHub marketplace](https://img.shields.io/badge/marketplacegithub-styled--random--quote-blue?logo=github)](https://github.com/marketplace/actions/styled-random-quote)
 
 [![management: perfekt👌](https://img.shields.io/badge/management-perfekt👌-red.svg)](https://github.com/lekterable/perfekt)
 [![code style: prettier](https://img.shields.io/badge/code_style-prettier-ff69b4.svg)](https://github.com/prettier/prettier)
