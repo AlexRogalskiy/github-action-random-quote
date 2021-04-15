@@ -1,5 +1,5 @@
 name: 'Styled Random Quote'
-description: 'Provides random quotes on GitHub issues/pull requests'
+description: 'Automatically generates random quotes on issues/pull requests by provided parameters'
 author: 'AlexRogalskiy'
 
 inputs:
