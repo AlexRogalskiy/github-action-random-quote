@@ -88,10 +88,3 @@ jobs:
         with:
           requestId: 1
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-      - name: Push changes
-        uses: stefanzweifel/git-auto-commit-action@v4
-        with:
-          skip_dirty_check: false
-          commit_message: Add images pulled from headless browser to folder
-          commit_options: '--no-verify --signoff'
