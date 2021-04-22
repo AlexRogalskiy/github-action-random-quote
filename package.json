@@ -11,7 +11,7 @@
         "format": "prettier --single-quote --write **/*.ts",
         "format:md": "remark-preset-davidtheclark --format",
         "format:check": "prettier --check **/*.ts",
-        "lint": "eslint --cache --fix --quiet --cache-location ./node_modules/.cache/ --format codeframe --ext js,ts .",
+        "lint": "eslint --color --cache --fix --quiet --cache-location ./node_modules/.cache/ --format codeframe --ext js,ts .",
         "lint:md": "remark-preset-davidtheclark",
         "lint:clean": "del-cli --dot=true .eslintcache",
         "lint:editorconfig": "editorconfig-checker",
