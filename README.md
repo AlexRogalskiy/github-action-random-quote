@@ -31,9 +31,9 @@
 [![dependencies Status](https://status.david-dm.org/gh/AlexRogalskiy/github-action-random-quote.svg)](https://david-dm.org/AlexRogalskiy/github-action-random-quote)
 [![devDependencies Status](https://status.david-dm.org/gh/AlexRogalskiy/github-action-random-quote.svg)](https://david-dm.org/AlexRogalskiy/github-action-random-quote?type=dev)
 
+[![codebeat badge](https://codebeat.co/badges/f6abd25a-b9d8-4838-9505-17f3c2c14189)](https://codebeat.co/projects/github-com-alexrogalskiy-github-action-random-quote-master)
 [![Total alerts](https://img.shields.io/lgtm/alerts/g/AlexRogalskiy/github-action-random-quote.svg?logo=lgtm\&logoWidth=18)](https://lgtm.com/projects/g/AlexRogalskiy/github-action-random-quote/alerts/)
 [![Language grade: JavaScript](https://img.shields.io/lgtm/grade/javascript/g/AlexRogalskiy/github-action-random-quote.svg?logo=lgtm\&logoWidth=18)](https://lgtm.com/projects/g/AlexRogalskiy/github-action-random-quote/context:javascript)
-
 [![codecov](https://codecov.io/gh/AlexRogalskiy/github-action-random-quote/branch/main/graph/badge.svg?token=ZiMgSTfzPv)](https://codecov.io/gh/AlexRogalskiy/github-action-random-quote)
 [![CI](https://github.com/AlexRogalskiy/github-action-random-quote/workflows/CI/badge.svg)](https://github.com/AlexRogalskiy/github-action-random-quote/actions/workflows/build.yml)
 [![CircleCI](https://circleci.com/gh/AlexRogalskiy/github-action-random-quote.svg?style=shield)](https://circleci.com/gh/AlexRogalskiy/github-action-random-quote)
