@@ -31,6 +31,7 @@
 [![dependencies Status](https://status.david-dm.org/gh/AlexRogalskiy/github-action-random-quote.svg)](https://david-dm.org/AlexRogalskiy/github-action-random-quote)
 [![devDependencies Status](https://status.david-dm.org/gh/AlexRogalskiy/github-action-random-quote.svg)](https://david-dm.org/AlexRogalskiy/github-action-random-quote?type=dev)
 
+[![Codeac](https://static.codeac.io/badges/2-357995060.svg)](https://app.codeac.io/github/AlexRogalskiy/github-action-random-quote)
 [![Coverage Status](https://coveralls.io/repos/github/AlexRogalskiy/github-action-random-quote/badge.svg?branch=master)](https://coveralls.io/github/AlexRogalskiy/github-action-random-quote?branch=master)
 [![codebeat badge](https://codebeat.co/badges/f6abd25a-b9d8-4838-9505-17f3c2c14189)](https://codebeat.co/projects/github-com-alexrogalskiy-github-action-random-quote-master)
 [![Total alerts](https://img.shields.io/lgtm/alerts/g/AlexRogalskiy/github-action-random-quote.svg?logo=lgtm\&logoWidth=18)](https://lgtm.com/projects/g/AlexRogalskiy/github-action-random-quote/alerts/)
